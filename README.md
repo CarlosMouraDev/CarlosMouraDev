@@ -13,6 +13,8 @@
 
 ###
 
+<hr>
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
@@ -24,9 +26,9 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
   <img width="12" />
-  <img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg](https://www.google.com.br/url?sa=i&url=https%3A%2F%2Fwww.pngwing.com%2Fen%2Fsearch%3Fq%3Dnode%2Bjs&psig=AOvVaw2pn-7hZCurnHbhzuOmHjb-&ust=1724629517405000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCNC_juDnjogDFQAAAAAdAAAAABAE)" height="30" alt="node.js logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg](https://www.google.com.br/url?sa=i&url=https%3A%2F%2Fwww.pngwing.com%2Fen%2Fsearch%3Fq%3Dnode%2Bjs&psig=AOvVaw2pn-7hZCurnHbhzuOmHjb-&ust=1724629517405000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCNC_juDnjogDFQAAAAAdAAAAABAE)" height="30" alt="node.js logo"  />
   <img width="12" />
-  <img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg](https://www.google.com.br/url?sa=i&url=https%3A%2F%2Fen.m.wikipedia.org%2Fwiki%2FFile%3APostgresql_elephant.svg&psig=AOvVaw0AfgCD4sjKe7qwTvkuAgwM&ust=1724629576212000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCNjgufznjogDFQAAAAAdAAAAABAE)" height="30" alt="postgreSQL logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg](https://www.google.com.br/url?sa=i&url=https%3A%2F%2Fen.m.wikipedia.org%2Fwiki%2FFile%3APostgresql_elephant.svg&psig=AOvVaw0AfgCD4sjKe7qwTvkuAgwM&ust=1724629576212000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCNjgufznjogDFQAAAAAdAAAAABAE)" height="30" alt="postgreSQL logo"  />
 </div>
 
 ###
@@ -40,10 +42,3 @@
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
 </div>
 
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
-
-###
