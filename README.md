@@ -1,19 +1,14 @@
 <h2 align="left">Hello, my name is Carlos Eduardo and I am a full-stack developer.</h2>
+<hr>
 
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maurodesouza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
-###
-
+<h3>About me</h3>
+<p>Estou atualmente cursando análise e desenvolvimento de sistemas, quero ser um grande desenvolvedor full-stack. Minha linguagem de programação favorita é o JavaScript e é a limguagem que eu escolhi para seguir minha carreira. Atualmente busco uma primeira oportunidade para entrar no mercado da programação e melhorar ainda mais meus conhecimentos.</p>
+ 
 <img align="right" height="150" src="https://i.pinimg.com/originals/19/b2/8c/19b28c8372aaec65623f7ee7332e74be.gif"  />
 
-###
-
 <hr>
+
+<h3>Skills</h3>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
@@ -36,11 +31,9 @@
   <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/1024px-Sass_Logo_Color.svg.png" height="30" alt="bootstrap logo"  />
 </div>
-
-###
+<hr>
 
 <div align="left">
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   <a href="https://www.linkedin.com/in/carlos-eduardo-moura-lemes-" target="_blank">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
