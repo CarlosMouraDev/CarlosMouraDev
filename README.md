@@ -38,7 +38,7 @@
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
    <a href="https://www.linkedin.com/in/carlos-eduardo-moura-lemes-163651270/" target="_blank">
-    <p>Portfólio</p>
+    <img src="https://www.flaticon.com/br/icone-gratis/portfolio_281089?term=portf%C3%B3lio&page=1&position=4&origin=tag&related_id=281089#" height="35" alt="Portfolio"/>
    </a>>
 </div>
 
