@@ -2,7 +2,7 @@
 <hr>
 
 <h3>About me</h3>
-<p>Estou atualmente cursando superior em análise e desenvolvimento de sistemas, me aprofundando na programação web e estudando inglês constantemente, quero ser um grande desenvolvedor full-stack. Minha linguagem de programação favorita é o JavaScript e é a limguagem que eu escolhi para seguir minha carreira. Atualmente busco uma primeira oportunidade para entrar no mercado da programação e iniciar minha jornada.</p>
+<p>Estou atualmente cursando superior em análise e desenvolvimento de sistemas, me aprofundando na programação web e estudando inglês constantemente, quero ser um grande desenvolvedor full-stack. Minha linguagem de programação favorita é o JavaScript e é a limguagem que eu escolhi para seguir minha carreira. Atualmente estou estagiando na empresa compass.UOL e buscando experiência e novos desafios.</p>
  
 <img align="right" height="150" src="https://i.pinimg.com/originals/19/b2/8c/19b28c8372aaec65623f7ee7332e74be.gif"  />
 
