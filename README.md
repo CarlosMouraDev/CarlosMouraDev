@@ -23,7 +23,8 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
   <img width="12" />
-  <img src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png" height="30" alt="node.js logo"  />
+  <img src="![image](https://github.com/user-attachments/assets/65d6b498-7f30-4443-8a80-c54e8e43a2d3)
+" height="30" alt="node.js logo"  />
   <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/993px-Postgresql_elephant.svg.png" height="30" alt="postgreSQL logo"  />    
   <img width="12" />
