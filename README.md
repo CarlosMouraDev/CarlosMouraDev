@@ -33,9 +33,6 @@
 
 <hr>
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/carlos-eduardo-moura-lemes-163651270/" target="_blank">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-</div>
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-usuario)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?logo=vercel&logoColor=white)](https://seuportfolio.vercel.app)
 
