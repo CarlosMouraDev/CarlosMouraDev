@@ -1,8 +1,18 @@
 <h2>Hello, my name is Carlos Eduardo and I am a full-stack developer.</h2>
 <hr>
 
-<h3>About me</h3>
-<p>Meu nome é Carlos Eduardo, sou um programador apaixonado por resolver desafios e por praticar esportes, especialmente vôlei. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas e JavaScript é minha linguagem de programação favorita, e foi nela que decidi me especializar. Meus principais objetivos são me tornar um programador de destaque e alcançar fluência em inglês. </p>
+ ## 📌 About me
+
+👨‍💻 Meu nome é Carlos Eduardo, sou apaixonado por resolver desafios e criar soluções através da programação.
+
+📚 Atualmente, estou cursando Análise e Desenvolvimento de Sistemas.
+
+💡 JavaScript é minha linguagem favorita e foco principal de estudo.
+
+🏐 Nas horas vagas, gosto de praticar esportes, especialmente vôlei.
+
+🎯 Meu objetivo é me tornar um desenvolvedor de destaque e alcançar fluência em inglês.
+ </p>
  
 <img align="right" height="150" src="https://i.pinimg.com/originals/19/b2/8c/19b28c8372aaec65623f7ee7332e74be.gif"  />
 
