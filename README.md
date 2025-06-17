@@ -13,11 +13,10 @@
 🎯 Meu objetivo é me tornar um desenvolvedor de destaque e alcançar fluência em inglês.
  </p>
  
+## 🛠️ Skills
+ 
 <img align="right" height="150" src="https://i.pinimg.com/originals/19/b2/8c/19b28c8372aaec65623f7ee7332e74be.gif"  />
 
-<hr>
-
-## 🛠️ Skills
 
 **Front-end**  
 <p align="left">
@@ -47,10 +46,10 @@
 <hr>
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/carlos-eduardo-moura-lemes-163651270" target="_blank" rel="noopener noreferrer">
+  <a href="https://www.linkedin.com/in/carlos-eduardo-moura-lemes-163651270" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://seu-portfolio.com" target="_blank" rel="noopener noreferrer">
+  <a href="https://portfolio-umber-xi-27.vercel.app/" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/Portfolio-161616?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
   </a>
 </p>
