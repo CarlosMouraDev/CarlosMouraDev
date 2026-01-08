@@ -4,7 +4,7 @@
 
 👨‍💻 Meu nome é Carlos Eduardo, sou apaixonado por resolver desafios e criar soluções através da programação.
 
-📚 Atualmente, estou cursando Análise e Desenvolvimento de Sistemas.
+📚 Sou formado em Análise e Desenvolvimento de Sistemas.
 
 💡 JavaScript é minha linguagem favorita e foco principal de estudo.
 
